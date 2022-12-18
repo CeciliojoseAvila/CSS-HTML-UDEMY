@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    font-size: 18px;
+    background-color: #fff;
+}
+/*  ENCABEZADO
+=================*/
+.header{
+    background-color: hsl(236, 75%, 35%);
+    text-align: center;
+    padding: 5px 0;
+}
